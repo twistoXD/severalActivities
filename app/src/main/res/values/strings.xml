@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">severalActivities</string>
+    <string name="car">Машина</string>
+    <string name="grass">Трава</string>
+    <string name="sky">Небо</string>
+    <string name="fuel">Канистра</string>
+</resources>
